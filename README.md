@@ -29,3 +29,10 @@ Bookmark this page to download the latest versions in the future.
 
 **Please allow some time for Lantern to complete configurations if installing it for the first-time, love <3**
 
+
+## 使用者留言：
+  **SwitchyOmega 是chrome等浏览器翻墙插件，只需代理服务器域名和端口，以及用户名密码，就可直接翻墙不用安装启动客户端，lantern老板是否可以提供这两个元素。**
+
+
+
+
